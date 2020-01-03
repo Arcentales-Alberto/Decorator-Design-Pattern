@@ -1,1 +1,3 @@
-# Patrón de diseño decorador\n  Usando clase abstracta
+# Patrón de diseño decorador
+
+Usando clase abstracta.
